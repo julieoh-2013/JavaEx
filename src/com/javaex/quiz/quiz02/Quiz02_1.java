@@ -6,7 +6,7 @@ public class Quiz02_1 {
 		int a = 3;
 		int b = 6;
 		char c = 'A';
-//		a는 짝수입니까? true or false로 출력하세요.
+//		a는 짝수입니까? true or false로 출력하세요. x
 		System.out.println((a%2==0));
 		
 //		b는 3의 배수입니까? true or false로 출력하세요
